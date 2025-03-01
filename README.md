@@ -1,18 +1,9 @@
-# FIT2104 Assignment 3
+# Online Web System
 
-## Date of Submission
-
-- Sunday, August 1st, 2024
 
 ## Author Details
 
-Student 1: Matthew Chen - 34033297
-<br>
-Student 2: Adam Tran - 32506260
-
-## FIT GitLab Repository
-
-- [ ] [Assignment 3 Repository](https://git.infotech.monash.edu/fit2104/fit2104-2024-s2/group-assignment/Lab05_Group9/project/-/tree/main/Assignment%203?ref_type=heads)
+Matthew Chen and Adam Tran 
 
 ## System Credentials
 ```
@@ -20,11 +11,6 @@ Login Details:
 Username: nathan.recruiter@example.com
 Password: GoodP@ssword123
 ```
-
-## SQL Files & Schema
-
-- [ ] [JimsConsulting Database Schema](https://git.infotech.monash.edu/fit2104/fit2104-2024-s2/group-assignment/Lab05_Group9/project/-/blob/main/Assignment%203/fit2104_a3_group.sql?ref_type=heads)
-
 
 
 
